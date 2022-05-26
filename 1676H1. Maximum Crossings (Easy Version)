@@ -1,22 +1,3 @@
-
-
-Codeforces
-| In English По-русски
-bijoy_dewanjee | Logout
-
-    
-HOMETOPCATALOGCONTESTSGYMPROBLEMSETGROUPSRATINGEDUAPICALENDARHELP
-
-
-PROBLEMSSUBMIT CODEMY SUBMISSIONSSTATUSHACKSSTANDINGSCUSTOM INVOCATION
-    
-General
-  
-#	Author	Problem	Lang	Verdict	Time	Memory	Sent	Judged	 	 
-156714338	Contestant:
-bijoy_dewanjee	1676H1 - 14	GNU C++17	Accepted	15 ms	188 KB	2022-05-10 19:05:40	2022-05-11 09:08:57	Add to favourites	Compare
-  
-→ SourceCopy
 #include<bits/stdc++.h>
 using namespace std;
  
@@ -157,12 +138,3 @@ int main()
  
     return 0;
 }
-Click to see test details
-
-Codeforces (c) Copyright 2010-2022 Mike Mirzayanov
-The only programming contests Web 2.0 platform
-Server time: May/26/2022 17:32:22UTC+6 (f1).
-Desktop version, switch to mobile version.
-Privacy Policy
-Supported by
-Telegram ИТМО
